@@ -1,1 +1,84 @@
+# Intro To Computers Dat 1 3/10/2025
 
+# Expansion Slots
+Expansion slots are used to install various components (e.g., network cards, sound cards).
+
+- **PCI Slots**
+- **PCI-X**
+- **PCI-E (Used today)**
+  - Flavors: 1x, 2x, 4x, 8x, 16x
+
+### Data Cable Ports
+- **IDE cable port (ribbon cable)** - Plugs into hard drive.
+
+### Platform Controller HUB
+- **North Bridge** (Now embedded into CPU) - Connected to CPU.
+- **South Bridge** was replaced by **Platform Controller**.
+
+---
+
+# CHIP
+- Controls different functions and stores certain data.
+- Many chips have been reduced to **CHIPSET**, which manages data flow between the processor.
+
+---
+
+# BIOS vs UEFI
+- **Firmware** is hardware with software embedded in it.
+- **BIOS** is the firmware that comes with your motherboard.
+- Hardware and software-based.
+
+---
+
+# CMOS Chip
+- **UEFI (NEW)** replaced the old BIOS.
+  - User-friendly interface.
+  - Recognizes larger storage.
+  - Built-in security features to stop unsigned drivers from loading.
+  - Protects against malicious software (e.g., rootkits) with **Secure Boot**.
+
+---
+
+# 32-bit vs 64-bit
+- **64-bit is better** for modern computing.
+
+---
+
+# RAM & Storage
+### Processor Manufacturers
+- **Intel** and **AMD** are the top manufacturers of CPUs.
+
+### Computer Buses
+Think of buses as data lines carrying information through the motherboard. They include power lines and control lines.
+
+- **System Bus / Data Bus** - Carries data (RAM, USB).
+- **Address Bus** - 8 wires = 8 bits; carries memory addresses, travels in one direction (unilateral).
+- **Control Bus** - Controls and monitors signals; used by CPU to communicate with devices.
+- **Internal Bus** - Enables communication within internal components.
+- **External Bus** - Allows communication with hard drives.
+- **Expansion Bus** - Connects CPU to PCI.
+
+---
+
+# Storage (Persistent)
+- Can be **internal or external**.
+- **Technology vs. Interface**:
+  - **Magnetic Storage**: Uses spinning platters (e.g., HDDs).
+  - **Solid State Storage (SSD)**: No moving parts (Best choice).
+  - **Hybrid Storage**: Combination of HDD + SSD (seen in cloud environments).
+
+### Interface (Connector/Input)
+- **PATA (Parallel IDE)** - Ribbon cable connects storage to motherboard.
+- **SCSI** - Ribbon cable supporting multiple drives.
+- **SATA (Serial ATA)** - Smaller, faster than PATA.
+- **NVMe (Non-Volatile Memory Express)** - Eliminates cables, mounted directly on the motherboard.
+- **USB Storage** - External solid-state storage.
+
+---
+
+# Storage Technology & Transfer Rates
+
+| Type | Connector | Transfer Rate |
+|------|----------|--------------|
+| **NVMe (SSD)** | M.2 - SSD (NVMe Express) | 3GB/s |
+| **SATA (Serial ATA)** | AHCI | 600 MB/s |
