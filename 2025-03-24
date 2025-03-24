@@ -1,0 +1,27 @@
+SORRY DEREK 
+__________________ :) 
+
+Numbering Systems
+- Hexadecimal numbers 
+  + (0-9) (10-15)
+- Binary Numbers
+- Base 16 
+- Converting Dotted Decimal to Binary Numbers
+- Converting Binary Numbers to Dotted Decimal 
+- Open Systems Interconnection Model (OSI)
+  + 7 application | 6 Presentation | 5 Session | 4 Transport | 3 Network | 2 Data-Link | 1 Physical 
+  + Data-Link (MAC , Frame) Rule: Token ; Chaos Theory = Ethernet ; Network Card; Bridge (Wired)/ Access Point (Wireless)
+  + Rules for each layer - Media Access Control (M.A.C)(order of first, Token, Coax, Type of Attenna)
+  + Host Layer and Media Layers
+    *Host Layer (Bits, Frames, Packets) Media Layers (Segments, Data, Data, Data)
+    *"Chaos theory" - Probability and Ethernet
+    APPLICATION LAYER - Network process to application  // Data
+    PRESENTATION - Data Representation and Encryption  // Data
+    SESSION - Interhost Communication // Data
+    TRANSPORT - Path Determination and IP (Logical Addressing) // Segment
+    DATA LINK - MAC and LLC (Physical Addressing) // Frames - Physical Address MAC address
+    PHYSICAL - media, signal, and binary transmission // Bits
+---------------------------------------------------------------------------------------------------------------------------
+    Bridges - always have two switches. Switches - has many port changes.
+    
+- Network Fundamentals
