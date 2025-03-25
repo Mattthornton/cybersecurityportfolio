@@ -33,15 +33,28 @@ Request - The client says request
 Acknowledge - Server makes an acknowledgement
 
 
-
-
 DHCP IP Addressing 
-+ service contains a pool of IP addresses and config settings that are leased to the client machine. 
++ service contains a pool of IP addresses and config settings leased to the client machine. 
 + save time/effort by dynamically assigning IP address info
-+Define a scope, subnet masks, default gateway, default domain server,etc. 
++Define a scope, subnet masks, default gateway, default domain server, etc. 
 
 DHCP Client
 dhclient
+
+Windows - 
+ipconfig /release
+ip config /renew
+
+Linux - 
+dtlclient - r
+
+Domain Name Space 
+- Maps domain name to an IP address
+
+Fully Qualified Domain Name (FQDN) 
+(DNS) 
+Root - theoretical starting point. 
+Top-level domain (TLD) (represents type of organization) 
 
 
 
