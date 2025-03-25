@@ -1,1 +1,12 @@
+22. --help - Provides help information about other commands.
+23. whatis Linux whatis Command with Practical Examples | LabEx - Finds indexes of
+short man descriptions for other commands.
+24. apropos Linux apropos Command with Practical Examples | LabEx - Displays one-line
+man page descriptions for any command or man page.
+25. shutdown Linux shutdown Command with Practical Examples | LabEx - Shuts down
+the system with various options.
+26. reboot Linux reboot Command with Practical Examples | LabEx - Reboots the system.
+27. poweroff Linux poweroff Command with Practical Examples | LabEx - Powers off the
+system.
+28. halt Linux halt Command with Practical Examples | LabEx - Halts the system.
 
