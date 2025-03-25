@@ -1,1 +1,23 @@
+Common Network Protocols & Port Numbers
+
+Protocol | Port Number | Description 
+Http          80         -Hyper Text Transfer Protocol -standard web traffic
+Https         443       - Secure HTTP - encrypted web traffic
+DNS           53        - Domain Name System - resolve domain names to IP addresses
+DHCP          67,68     - Dynamic Host Configuration Protocol - Assigns IP addresses
+SSH           22        - Secure Shell - secure remote login 
+FTP           20,21     - Handles Commands and responses between client and server; transfers the actual data 
+
++ 127 to ping 
+
+Class A - 1 to 16
+Class B - 129 to 191
+Class C - 192 to 223
+Class D & E - Experimental 
+
+IPv4 formatting 
+Subnet masks
+Classful Addressing
+
+
 
