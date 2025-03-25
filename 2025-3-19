@@ -1,1 +1,39 @@
+ Module 6.0 : Linux - Package Management
+Background
+Red Hat Based Processes 
+Debian Based Processes
+
+Type of packages 
++ Debian 
++ Containerized: Examples: Snap, Appimage in Linux, Flatpak
++ repositories - source of software 
+
+Dependencies 
+Repositories 
+RPM 
+YUM
+DNF 
+
+Package Name | Version | Release | Distribution | CPU Architecture 
+example: acroread -8.1.2-51.6.i586.rpm
+syntax: rpm [option] package_name
+
+YUM package manager 
+
+DNF package manager 
+
+Debian Package Manager
+
+Apt package family 
+dpkg
+APT
+apt
+apt-get
+aptitude
+
+Download files from a website
+wget - retrieve an entire website. 
+curl - upload and retrieve files from entire server. 
+tar - archive 
+gzip - most popular alorithm for compressing tar files. 
 
