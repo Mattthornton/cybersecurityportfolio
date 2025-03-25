@@ -1,16 +1,41 @@
+Linux Desktop 
++ Comparing Linux Desktops
+  - Different GNOME servers use different desktops
+  - Gnome Top bar provides a link to the default function
+  - MATE and other Linux desktops provide a menu for networks. 
+  - Installed Linux Desktop
+    + Many Distos give option of which desktop to install. 
+    + Example: Sudo apt update | Sudo apt install ubuntu-gnome-desktop
++ GNOME & Unity
+  -GNOME is the default GUI for many Linux desktops. 
+  -Unity primarily on Ubuntu distros 
++ Cinnamon & Mate 
++KDE 
+  - Emulates Windows desktop.
++ System Tray, Application Menu, 
+HARDWARE
+KERNAL = Core component and loads all other; centrally controls all activity. 
+SHELL = Provides a way for users to interact with a kernel, a bridge between user and system. CLI or GUI (Bash, csh, ash)
+UTILITIES = (ls, wget, cat, nano, vi)
 
+Terminal - Physical or virtual channel to the kernel. | Text-based interface user to enter commands. 
+Shell - Interprets commands interpreted via the terminal. 
 
+CLI vs. GUI pros and Cons. 
+
+Linux Shell Types 
+
+Bourne Shell (Sh) /bin/sh ; sbin/sh | Bourne Again Shell (Bash) bin/bash, C Shell (Csh) bin/csh | Korn Shell (Ksh) /Bin/Ksh
+Zshell (Zsh) /bin/zsh | Fish Shell (Fish)
+
+~ if the current director is the home directory.
+# - for root users 
+$ - for non root users, normal users. 
 
 Commands
-1. echo Linux echo Command with Practical Examples | LabEx - Displays lines of text or
-strings passed as arguments1.
-2. chsh Linux chsh Command with Practical Examples | LabEx - Changes the default
-shell1.
-3. ls Linux ls Command with Practical Examples | LabEx - Lists all files and directories in
-the current location2.
-4. pwd Linux pwd Command with Practical Examples | LabEx - Displays the present
-working directory.
-5. uname Linux uname Command with Practical Examples | LabEx - Displays system
-information.
-6. hostname Linux hostname Command with Practical Examples | LabEx - Displays the
-name of the system.
+1. echo Linux echo Command with Practical Examples 
+2. chsh Linux chsh Command with Practical Examples 
+3. ls Linux ls Command with Practical Examples 
+4. pwd Linux pwd Command with Practical Examples 
+5. uname Linux uname Command with Practical Examples
+6. hostname Linux hostname Command with Practical Examples 
