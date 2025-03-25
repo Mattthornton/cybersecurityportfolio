@@ -1,1 +1,106 @@
+Module 2 Linux Fundamentals
+
+Process Management 
+
+Background 
+
+Processor
+
+
+Processor Speed 
+
+Processor Architecture 
+
+Multitasking
+  + Multicore CPU 
+  + Dual Processor 
+  + Hyper Threading
+
+Multitasking Vs. Multicore Processing 
+
+Multithreading CPU 
+
+Multicore Multithreading CPU 
+
+Files Create Process Type 
++ Binary Executable Process 
++Internal Shell Command Process 
++Shell Script Process 
+
+User-Created Process vs. System-Created Process 
+
+Process Heredity 
++Parent Process 
++Child Process 
+
+Process Numbering 
++Process Identifiers 
+  -PID 
+  -PPID 
+* SystemD (Init) grandparent process that initiates all other processes. 
+
+Forking 
+
+Process Display Viewing Top 
++Characteristics 
++Options
+
+PS 
+
+Process Display Viewing 
++HTOP 
++LSOF
+
+Process States 
+PS 
+TOP 
+Running Runable Sates (R)
+Sleeping States (S)
+Stopped States (T)
+Zombie State (Z)
+
+Job Management
+Foreground 
+Background
+Stopped States / Suspend
++Starting Jobs in Background 
++Viewing Background Jobs 
+
+COMMANDS
+fg
+bg
+ctrl + Z
+ctrl + D
+ctrl + C
+
+Process Priority 
+(PR, PRI)
++Characteristics
++NICE ('NI)
+  - Examples: nice -n 7 gedit | nice -n -9 gedit
++renice: assign a new value to a running process
+
+Process Termination
++ GUI: close button
++ Services: run systemcntl stop 
++ CTL-C
++ kill/ killall / pkill
+  - syntax: kill [signal] [PID] , killall [signal][process_name], pkill [option][pattern]
+
++Run Process after logout
+  - nohup & (example: nohup gedit &)
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
 
