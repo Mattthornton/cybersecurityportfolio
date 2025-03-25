@@ -19,5 +19,30 @@ IPv4 formatting
 Subnet masks
 Classful Addressing
 
+DHCP Server 
++IP address
++Subnet mask
++Default gateway (router/firewall/nat)
++DHCP Server (Me) 
++DNS Server
+
+
+Discover - Client says
+Offer - The Server offers the client
+Request - The client says request 
+Acknowledge - Server makes an acknowledgement
+
+
+
+
+DHCP IP Addressing 
++ service contains a pool of IP addresses and config settings that are leased to the client machine. 
++ save time/effort by dynamically assigning IP address info
++Define a scope, subnet masks, default gateway, default domain server,etc. 
+
+DHCP Client
+dhclient
+
+
 
 
