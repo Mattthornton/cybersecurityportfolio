@@ -1,0 +1,33 @@
+Windows: ipconfig , ip config/all
+linux: ipconfig, ip, ip a .... address show
+ip r 
+
+Network Sharing Center 
+nwtui
+nmgui
+
+DHCP - Assigns IP addresses
+IPV4
+Subnet
+Default Gateway
+DNS server "name server" - Maps domain to IP address
+IP address consists of octets, 8 per decimal
+IPV6 - consists of 128 bits, 32 per decimal, Hex 
+
+Default Gateway 
+- Forwards data from one network to another. 
+- Network address and host address. 
+
+Ping Utility 
+- Name Resolution 
+- Trace Route - how many hops does it take to get to the problem. 
+
+tcpdump 
+-turns your computer into a collector. 
+-collects frames
+
+wireshark is the gui version of TCP
+
+
+
+
