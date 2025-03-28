@@ -1,0 +1,55 @@
+Review 
+Hex
+Decimal numbering system 
+SystemD - first service that comes up. 
+SSHD - system ctl enable 
+Firewall D - System Ctl Start 
+Crond 
+Mysqld - System Ctl Status 
+Start, Stop, Status, Enable, Restart (Stop and Start), Reload (Start)
+Type the IP address into 
+Firwall - filter: creates a safety barrior // Access control List (IP Address, Protocol, Destination, Port) 
+RDP - Remote Desktop Protocol
+Norton, Microsoft Defender, Macafee - Host based firewall
+Network based firewall - manages network issues 
+Soho - firewall, Dhcp, Nat, DNS Routing Service 
+
+
+Netfilter - primary core firewall for linux 
+IPTables - App tool that builds upon netfilter, "Cmd" based interface. 
+Uncomplicated firewall (UFW) - provides user friendly framework for managing netfilter, an interface to iptables 
+Firewalld - front-end controller for IPtables. 
+Zones - Intranet, Extranet, Internet 
+
+Security Foundamentals - Secure Shell
+Remote administration Access - SSH
+primary remote administation tool in Linux is Secure Shell (SSH)
+Provides authenticated and encrypted remote connectivity
+Authentucate to server, router, swithces, cloud computing, as well as client computers 
+SSH authentication uses public-private key pair
++ more secure
++more convenient for manuel and scripted connections
++Commonly required by cloud services
+
+Characteristics: 
++Public-private key pair is unique to each users 
++keys are stored separatly 
++highly secure (Unless private key is compromised!)
++highly secure (Unless private key is compromise!) 
++Can be used across multiple systems
+
+Common SSH settings:
++default port number: 22/tcp
++disable root authentication over SSH
++Banner  message warns user of proper use
++disable password authentication
++use passphrase
+
+Have to download SSH a Secure Shell. 
+Debian 
+- Sudo apt install openssh-client 
+
+
+
+
+
