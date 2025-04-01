@@ -1,1 +1,55 @@
+Clients requet data from servers
++Servers provide data to clients
++Every device acts as either a client or server
++Client Server networks provide centralised control
++But servers can be expensive and difficult to run
+
+Peer to peer 
++have no central servers 
++Individual devices can switch between being clients and servers 
++Each computer is equal in responsibility 
++Simpler to set up and maintain but no manager securit or backups
+
+Lan Topology 
++ It belong to layer 1 or physical layer or the osi model 
++ Physcial, Logical, and Hybrid 
+8 different topologies 
++Point-to-point topology 
++Point-to-multipoint topology 
++Bus Topology (Daisy Chain Topology)
++Ring Topology - Each node reads the data and forwards it to the next node. 
++Star Topology has benefits overboth bus and ring 
++Hybrid topology 
+  + Star-Ring (Star - Wired Ring)
+  + Star-bus (mot common topology) 
++Partially Meshed Topology 
++Fully Meshed Topology (C=n(n-1)/2 | Best Top
+
+OSI Model Concepts
+7 Application 
+6 Presentation 
+5 Session
+4 Transport
+3 Network 
+2 Data Link 
+  - Bridge
+  - NIC 
+  - Switch 
+  - MAC 
+1 Physical 
+  + Wired / Wireless
+  + Bits 0,1
+  + Twisted Pair
+  + Coax 
+
+PDUs - generic term to describe each layer 
+COAX 
+FIBER 
+T/P 
+Media Converter 
+
+POP3 - Port # 110 
+IMAP - Port # 143
+SMTP 25 
+
 
