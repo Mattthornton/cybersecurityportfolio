@@ -1,0 +1,57 @@
+Twisted Pair Cable 
+4 color-coded insukated copper wire pairs:
+Shielded Twisted Pair
++ Braided Shielding, Jacket/Shield, Foil Shielding, Insulator
+STP , UTP can transmit at the same rate. 
+It dependson other factors such as levels of cable category, etc. 
+
+Category and Class
+Cat 3(Category 3)
+Mainly for the telephone system 
+Terminated with RJ-11 connectors
+Cat 5e(Enhanced Category 5)
+Cat 6 (Category 6) 
+Cat 6e , 5e, 7e, 8e
+
+Physical Bits 1,0 
+Wired / Wireless (Antenna)
+
+Attenuation 
+EMI
+Horizontal /Cable 
+Vertical Cable 
+Patch Cable 
+RJ-45 vs RJ-11
+TIA-EIA
+
+Fiber-Optic Cable 
+Single Mode: 9 microns, High transfer rate over long distance, laser generated
+Multi-Mode: Short distances, light distances over multiple paths, contains core 
+
+Structure of Fiber-Optic Cable 
+Jacket: Protects inner components
+Buffer: USed to encapsulate one or more optiocal fibers providing protection from physical damage
+Cladding: The glass or plastic shield around the core. 
+Cores: 62.5 um , 50 um, 9 um 
+
+Copper Cabling: 10 Gpersecond 
+
+Connectors 
+RJ11
+RJ45
+GG45
+Tera
+
+Plenum Space 
+
+ST(Straight Tip Connector) 
+SC (Subscriber) Connector
+LC 
+MTRJ 
+
+Network Cards has an RX or a TX (Recieving or Transfer)
+
+
+
+
+ 
