@@ -52,4 +52,37 @@ POP3 - Port # 110
 IMAP - Port # 143
 SMTP 25 
 
+Data Encapsulation
+Data is called a segment if UTC is used; called a datagram if UDP is used. 
+At the data link layer the frame header is added and the end point is added as well.
+
+De-encapsulation 
+Destination side the recieving node will interprets and checks at the data link layer, delivering up to the network layer. 
+Examination happens through the various layers, passing back up the chain through the layer toward the first later, the application layer. 
+
+SOHO router 
+All-in-one-device 
++Modem, router, switch, wireless, AP, firewall, etc. 
++WAN/ DSL port 
+Switching local devices
++Vlan / Lan1,Lan2, Lan3,Lan4
+
+
+Access point settings
+Enable / disable frequencies
++ 2.4 GHz and/or 5 GHz
++Available options will depend on wireless standard used. 
+
+Soho device
++wireless 
++wired 
++Default gateway 
++DNS server 
++DHCP server 
++Firewall 
++Swith 
++Router 
+
+
+
 
